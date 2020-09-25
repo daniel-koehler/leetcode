@@ -4,7 +4,6 @@
 # Check all possible substrings (O(n^2)) subsequently and check if there are no duplicate characters (O(n))
 class SolutionBruteForce:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        s = list(s)
         s_len = len(s)
         max_len = min(s_len, 1)
         
