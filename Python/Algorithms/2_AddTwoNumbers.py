@@ -27,8 +27,7 @@ class Solution:
                 v2 = 0
                 
             _sum = v1 + v2 + carry
-            digit.val = _sum % 10
-            carry = _sum // 10
+            carry, digit.val = divmod(_sum, 10)
             
             if not (n1 or n2 or carry):
                 return head
