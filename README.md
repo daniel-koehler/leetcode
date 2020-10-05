@@ -43,5 +43,12 @@ This repository contains my solutions to problems on [LeetCode](https://leetcode
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./Python/Algorithms/0062_UniquePaths.py)|Medium|Dynamic programming / Backtracking / Combinatorics|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](./Python/Algorithms/0063_UniquePaths2.py)|Medium|Dynamic programming|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](./Python/Algorithms/0064_MinimumPathSum.py)|Medium|Dynamic programming|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](./Python/Algorithms/0066_PlusOne.py)|Easy||
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./Python/Algorithms/0067_AddBinary.py)|Easy||
+|68|[My Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./Python/Algorithms/0068_SqrtX.py)|Easy|Binary search|
+|69|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./Python/Algorithms/0069_ClimbingStairs.py)|Easy|Dynamic programming|
+|70|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./Python/Algorithms/0070_SimplifyPath.py)|Medium||
+
+|74|[Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](./Python/Algorithms/0074_SearchA2DMatrix.py)|Medium|Binary search, linearized array|
 
 [//]: ||[](https://leetcode.com/problems/)|[Python](./Python/Algorithms/.py)|||
