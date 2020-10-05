@@ -45,10 +45,10 @@ This repository contains my solutions to problems on [LeetCode](https://leetcode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](./Python/Algorithms/0064_MinimumPathSum.py)|Medium|Dynamic programming|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](./Python/Algorithms/0066_PlusOne.py)|Easy||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./Python/Algorithms/0067_AddBinary.py)|Easy||
-|68|[My Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./Python/Algorithms/0068_SqrtX.py)|Easy|Binary search|
-|69|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./Python/Algorithms/0069_ClimbingStairs.py)|Easy|Dynamic programming|
-|70|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./Python/Algorithms/0070_SimplifyPath.py)|Medium||
-
+|69|[My Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./Python/Algorithms/0068_SqrtX.py)|Easy|Binary search|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./Python/Algorithms/0069_ClimbingStairs.py)|Easy|Dynamic programming|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./Python/Algorithms/0070_SimplifyPath.py)|Medium||
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](./Python/Algorithms/0073_SetMatrixZeroes.py)|Medium||
 |74|[Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](./Python/Algorithms/0074_SearchA2DMatrix.py)|Medium|Binary search, linearized array|
 
 [//]: ||[](https://leetcode.com/problems/)|[Python](./Python/Algorithms/.py)|||
