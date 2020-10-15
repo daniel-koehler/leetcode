@@ -34,6 +34,8 @@ This repository contains my solutions to problems on [LeetCode](https://leetcode
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](./Python/Algorithms/0048_RotateImage.py)|Medium|Transpose and flip matrix|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./Python/Algorithms/0049_GroupAnagrams.py)|Medium|Group by sorted string or char count|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[Python](./Python/Algorithms/0050_PowXN.py)|Medium|Recursion|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](./Python/Algorithms/0051_NQueens.py)|Hard|Backtracking|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python](./Python/Algorithms/0052_NQueens2.py)|Hard|Backtracking|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/Algorithms/0053_MaximumSubarray.py)|Easy|Kadane's algorithm|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](./Python/Algorithms/0054_SpiralMatrix.py)|Medium||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](./Python/Algorithms/0055_JumpyGame.py)|Medium|Backtracking / Dynamic programming / Greedy search|
