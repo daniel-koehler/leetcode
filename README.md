@@ -52,5 +52,16 @@ This repository contains my solutions to problems on [LeetCode](https://leetcode
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./Python/Algorithms/0070_SimplifyPath.py)|Medium||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](./Python/Algorithms/0073_SetMatrixZeroes.py)|Medium||
 |74|[Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](./Python/Algorithms/0074_SearchA2DMatrix.py)|Medium|Binary search, linearized array|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./Python/Algorithms/0075_SortColors.py)|Medium||
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Python](./Python/Algorithms/0077_Combinations.py)|Medium|Recursion|
+|80|[Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./Python/Algorithms/0080_RemoveDuplicatesFromSortedArray2.py)|Medium||
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](./Python/Algorithms/0086_PartitionList.py)|Medium||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/|[Python](./Python/Algorithms/0088_MergeSortedArray.py)|Easy||
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Python](./Python/Algorithms/0093_RestoreIPAddresses.py)|Medium|Backtracking|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./Python/Algorithms/0094_BinaryTreeInorderTraversal.py)|Medium|Recursion|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](./Python/Algorithms/0100_SameTree.py)|Easy|Recursion|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](./Python/Algorithms/0101_SymmetricTree.py)|Easy|Recursion|
+|104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./Python/Algorithms/0104_MaximumDepthOfBinaryTree.py)|Easy|Recursion, BFS|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./Python/Algorithms/0107_BinaryTreeLevelOrderTraversal2.py)|Easy|BFS|
 
 [//]: ||[](https://leetcode.com/problems/)|[Python](./Python/Algorithms/.py)|||
