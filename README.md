@@ -56,7 +56,7 @@ This repository contains my solutions to problems on [LeetCode](https://leetcode
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Python](./Python/Algorithms/0077_Combinations.py)|Medium|Recursion|
 |80|[Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./Python/Algorithms/0080_RemoveDuplicatesFromSortedArray2.py)|Medium||
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](./Python/Algorithms/0086_PartitionList.py)|Medium||
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/|[Python](./Python/Algorithms/0088_MergeSortedArray.py)|Easy||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Python/Algorithms/0088_MergeSortedArray.py)|Easy||
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Python](./Python/Algorithms/0093_RestoreIPAddresses.py)|Medium|Backtracking|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./Python/Algorithms/0094_BinaryTreeInorderTraversal.py)|Medium|Recursion|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](./Python/Algorithms/0100_SameTree.py)|Easy|Recursion|
